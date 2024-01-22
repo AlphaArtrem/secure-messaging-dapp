@@ -1,0 +1,5 @@
+.secret
+
+/contracts/node_modules
+/contracts/package-lock.json
+/contracts/build
